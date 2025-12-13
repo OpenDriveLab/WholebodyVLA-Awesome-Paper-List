@@ -38,7 +38,7 @@ WholeBodyVLA is a unified Vision-Language-Action framework for large-space human
 
 **See more on [project website](https://opendrivelab.com/wholebodyvla).**
 
-📝 **Note:** We currently have no plans to open-source the codebase. This repository now serves as a collection of resources and references for the whole-body humanoid VLA research community. We welcome discussions and collaborations!
+📝 **Note:** We currently have no plans to open-source the codebase. This repository now serves as a collection of resources and references for the whole-body humanoid VLA research community. We welcome discussion and collaboration!
 
 
 
