@@ -99,7 +99,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - (paper) ...
 
 
-### Velocity Tracking
+### Upper-Body Centric
 
 - (paper) ...
 
