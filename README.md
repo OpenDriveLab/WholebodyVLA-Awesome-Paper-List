@@ -244,26 +244,26 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 #### Learning from Human Videos
 
-- [IROS 2025 [arXiv 2025.11](https://arxiv.org/abs/2511.05199)], Let Me Show You: Learning by Retrieving from Egocentric Video for Robotic Manipulation
+- [IROS 2025, [arXiv 2025.11](https://arxiv.org/abs/2511.05199)], Let Me Show You: Learning by Retrieving from Egocentric Video for Robotic Manipulation
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.21571), [GitHub](https://github.com/microsoft/ViTra)] Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.22199), [GitHub](https://github.com/GigaAI-research/MimicDreamer)] MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.15212), [GitHub](https://github.com/alibaba-damo-academy/RynnVLA-001)] RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.19958), [GitHub](https://github.com/insait-institute/motovla)] Generalist Robot Manipulation beyond Action Labeled Data
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.21723)], VLBiMan: Vision-Language Anchored One-Shot Demonstration Enables Generalizable Bimanual Robotic Manipulation
-- [ICCV 2025 [arXiv 2025.08](https://arxiv.org/abs/2508.07626), [GitHub](https://github.com/idejie/ar)] AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning
+- [ICCV 2025, [arXiv 2025.08](https://arxiv.org/abs/2508.07626), [GitHub](https://github.com/idejie/ar)] AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning
 - [[arXiv 2025.07](https://arxiv.org/abs/2507.23523v1), [GitHub](https://github.com/HongzheBi/H_RDT)] H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation
 - [[arXiv 2025.07](https://arxiv.org/abs/2507.15597), [GitHub](https://github.com/BeingBeyond/Being-H0)] Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos
 - [[arXiv 2025.07](https://arxiv.org/abs/2507.12440), [GitHub](https://github.com/RchalYang/EgoVLA_Release)] EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos
 - [[arXiv 2025.06](https://arxiv.org/abs/2506.16475), [GitHub](https://github.com/chrisyrniu/Human2LocoMan)] Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining
 - [[arXiv 2025.05](https://arxiv.org/abs/2505.11709), [GitHub](https://github.com/apple/ml-egodex)] EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video
-- [RSS 2025 [arXiv 2025.05](https://arxiv.org/abs/2505.06111), [GitHub](https://github.com/OpenDriveLab/UniVLA)] UniVLA: Learning to Act Anywhere with Task-centric Latent Actions
+- [RSS 2025, [arXiv 2025.05](https://arxiv.org/abs/2505.06111), [GitHub](https://github.com/OpenDriveLab/UniVLA)] UniVLA: Learning to Act Anywhere with Task-centric Latent Actions
 - [[arXiv 2025.05](https://arxiv.org/abs/2505.20795)], Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt
 - [[arXiv 2025.03](https://arxiv.org/abs/2503.23877), [GitHub](https://github.com/junyaoshi/ZeroMimic)] ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
-- [ICLR 2025 [arXiv 2024.10](https://arxiv.org/abs/2410.11758), [GitHub](https://github.com/LatentActionPretraining/LAPA)] Latent Action Pretraining from Videos
-- [CoRL 2024 [arXiv 2024.10](https://arxiv.org/abs/2410.24221), [GitHub](https://github.com/SimarKareer/EgoMimic)] EgoMimic: Scaling Imitation Learning via Egocentric Video
-- [CVPR 2025 [arXiv 2024.06](https://arxiv.org/abs/2406.14235), [GitHub](https://github.com/jiaming-zhou/HumanRobotAlign)] Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation
-- [CoRL 2024 [arXiv 2024.05](https://arxiv.org/abs/2405.20321)], Vision-based Manipulation from Single Human Video with Open-World Object Graphs
-- [CoRL 2022 [arXiv 2022.03](https://arxiv.org/abs/2203.12601), [GitHub](https://github.com/facebookresearch/r3m)] R3M: A Universal Visual Representation for Robot Manipulation
+- [ICLR 2025, [arXiv 2024.10](https://arxiv.org/abs/2410.11758), [GitHub](https://github.com/LatentActionPretraining/LAPA)] Latent Action Pretraining from Videos
+- [CoRL 2024, [arXiv 2024.10](https://arxiv.org/abs/2410.24221), [GitHub](https://github.com/SimarKareer/EgoMimic)] EgoMimic: Scaling Imitation Learning via Egocentric Video
+- [CVPR 2025, [arXiv 2024.06](https://arxiv.org/abs/2406.14235), [GitHub](https://github.com/jiaming-zhou/HumanRobotAlign)] Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation
+- [CoRL 2024, [arXiv 2024.05](https://arxiv.org/abs/2405.20321)], Vision-based Manipulation from Single Human Video with Open-World Object Graphs
+- [CoRL 2022, [arXiv 2022.03](https://arxiv.org/abs/2203.12601), [GitHub](https://github.com/facebookresearch/r3m)] R3M: A Universal Visual Representation for Robot Manipulation
 ### Navigation
 
 - [[arXiv 2025.12](https://arxiv.org/abs/2512.08186), [GitHub](https://github.com/InternRobotics/InternNav)] Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation [fast-slow system]
