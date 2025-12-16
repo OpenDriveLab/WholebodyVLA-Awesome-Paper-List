@@ -215,7 +215,8 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 
 ### Manipulation
-- [Survey, [PDF](https://openreview.net/forum?id=Seb7rprW1Y)] Intelligent Robot Manipulation Requires Self-Directed Learning
+- [[blog 2025.12](https://research.nvidia.com/labs/gear/gr00t-n1_6/), [Code](https://github.com/NVIDIA/Isaac-GR00T/tree/main)], GR00T N1.6: An Improved Open Foundation Model for Generalist Humanoid Robots
+- [Survey, [PDF](https://openreview.net/forum?id=Seb7rprW1Y)], Intelligent Robot Manipulation Requires Self-Directed Learning
 - [[blog 2025.11](https://generalistai.com/blog/nov-04-2025-GEN-0)], Embodied Foundation Models That Scale with Physical Interaction
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.17502), [GitHub](https://github.com/alibaba-damo-academy/RynnVLA-002)] RynnVLA-002: A Unified Vision-Language-Action and World Model
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.14659), [GitHub](https://github.com/declare-lab/nora-1.5)] NORA-1.5: A Vision-Language-Action Model Trained using World Model and Action-based Preference Reward
