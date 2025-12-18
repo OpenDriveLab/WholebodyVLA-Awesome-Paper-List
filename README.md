@@ -92,7 +92,6 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [[arXiv 2025.12](https://arxiv.org/abs/2512.06571)] Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input [YOLOv8]
 - [[arXiv 2025.12](https://arxiv.org/abs/2512.06571), [Demo](https://humanoid-kick.github.io/)] Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots [YOLOv8]
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.04679), [Demo](https://gentle-humanoid.axell.top/#/)] GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction
-- [[arXiv 2025.10](https://arxiv.org/abs/2510.18002), [Demo](https://humanoid-goalkeeper.github.io/Goalkeeper/), [Code](https://github.com/InternRobotics/Humanoid-Goalkeeper)] Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.11682), [Demo](https://ego-vcp.github.io/), [Code](https://github.com/HybridRobotics/Ego-VCP)] Ego-Vision World Model for Humanoid Contact Planning [depth, world model]
 - [CoRL 2025, [arXiv 2025.08](https://arxiv.org/abs/2508.03068), [Demo](https://stanford-tml.github.io/HEAD/), [Code](https://github.com/Stanford-TML/HEAD_release)] Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching
 - [[arXiv 2025.06](https://arxiv.org/abs/2506.13751), [Demo](https://ember-lab-berkeley.github.io/LeVERB-Website/)] LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction [LeVERB-Bench]
@@ -106,6 +105,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.11218)] Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning
+- [[arXiv 2025.10](https://arxiv.org/abs/2510.18002), [Demo](https://humanoid-goalkeeper.github.io/Goalkeeper/), [Code](https://github.com/InternRobotics/Humanoid-Goalkeeper)] Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.05070), [Demo](https://resmimic.github.io/)] ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.16757), [Demo](https://hdmi-humanoid.github.io/#/), [Code](https://github.com/LeCAR-Lab/HDMI)] HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.26633), [Demo](https://omniretarget.github.io/), [Code](https://github.com/amazon-far/holosoma)] OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction
